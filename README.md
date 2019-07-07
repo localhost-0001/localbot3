@@ -14,7 +14,7 @@ First, you need to install [python3](https://www.python.org/download/releases/3.
 After that, you would need to install v 0.16.smth of https://github.com/Rapptz/discord.py
 
 ```
-You can't.
+You can't. [OK, I lied.](https://github.com/Rapptz/discord.py/releases/tag/v0.16.12). Gl. 
 ```
 
 ### Installing
