@@ -19,7 +19,7 @@ You can't.
 
 ### Installing
 
-Fill out the STATICS.py, config.py
+Fill out the SECRETS.py, config.py
 
 To run the bot, use following command in the command line 
 ```
