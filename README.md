@@ -35,7 +35,7 @@ To run the bot, use following command in the command line
 
 * **localhost#0001** - *throwing the thing together* - [localhost-0001](https://github.com/localhost-0001)
 
-See also the list of [contributors](https://github.com/localhost-0001/localbot/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/localhost-0001/localbot3/contributors) who participated in this project.
 
 ## License
 
