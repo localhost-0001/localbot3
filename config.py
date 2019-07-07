@@ -1,0 +1,10 @@
+prefix = "p!"
+suggestchan = "ID of channel for suggestions"
+version = "b 0.4.0.x Stable"
+#BRANDING
+invite = "server invite"
+name = "localbot"
+leftlogoembed = "image link"
+botinv = "link to invite bot"
+by = "by localthehost"
+embedthumbnail = "image link"

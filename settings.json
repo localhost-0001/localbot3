@@ -1,0 +1,8 @@
+{
+    "perms":
+    {
+      "lvl1": ["supporter", "prmlvl1"],
+      "lvl2": ["mod", "moderator", "prmlvl2"],
+      "lvl3": ["admin", "prmlvl3"]
+    }
+}
