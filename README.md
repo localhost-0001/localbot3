@@ -1,4 +1,4 @@
-# localbot3 (edition/mistake)
+# localbot3 (python edition/mistake)
 
 A crappy Discord bot made in [python3](https://www.python.org/download/releases/3.0/)
 
