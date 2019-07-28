@@ -66,7 +66,7 @@ async def fclearbtw(message, invoke, client):
     return
 
 async def filterlog(message, client):
-    logchan = discord.utils.get(message.server.channels, name='pcalog')
+    logchan = discord.utils.get(message.server.channels, name='punishment-logs')
     embed=discord.Embed(title="Discord", url=config.invite, colour=0xe74c3c)
     embed.set_author(name=config.name, url=config.botinv, icon_url=config.leftlogoembed)
     embed.set_thumbnail(url=config.embedthumbnail)
@@ -79,7 +79,7 @@ async def nologchan(message, client):
     embed=discord.Embed(title="Discord", url=config.invite, color=0xe74c3c)
     embed.set_author(name=config.name, url=config.botinv, icon_url=config.leftlogoembed)
     embed.set_thumbnail(url=config.embedthumbnail)
-    embed.add_field(name="WARNING", value="PLEASE CREATE A #pcalog CHANNEL", inline=False)
+    embed.add_field(name="WARNING", value="PLEASE CREATE A punishment-logs CHANNEL", inline=False)
     embed.set_footer(text=config.by)
     await client.send_message(message.channel, embed=embed)
     return
