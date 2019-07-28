@@ -1,6 +1,6 @@
 prefix = "p!"
 suggestchan = "ID of channel for suggestions"
-version = "b 0.4.0.x Stable"
+version = "b 0.4.1.x Stable"
 #BRANDING
 invite = "server invite"
 name = "localbot"
